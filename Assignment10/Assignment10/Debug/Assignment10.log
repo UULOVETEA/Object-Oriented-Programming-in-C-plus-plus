@@ -1,0 +1,17 @@
+﻿  Source.cpp
+c:\users\xcao0\onedrive\fall 2016\csc263\assignment\assignment10\assignment10\testscores.h(88): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  c:\users\xcao0\onedrive\fall 2016\csc263\assignment\assignment10\assignment10\testscores.h(68): note: while compiling class template member function 'int TestScores<int>::GetAverage(T [])'
+          with
+          [
+              T=int
+          ]
+  c:\users\xcao0\onedrive\fall 2016\csc263\assignment\assignment10\assignment10\testscores.h(98): note: see reference to function template instantiation 'int TestScores<int>::GetAverage(T [])' being compiled
+          with
+          [
+              T=int
+          ]
+  c:\users\xcao0\onedrive\fall 2016\csc263\assignment\assignment10\assignment10\testscores.h(42): note: while compiling class template member function 'TestScores<int>::TestScores(void)'
+  c:\users\xcao0\onedrive\fall 2016\csc263\assignment\assignment10\assignment10\source.cpp(49): note: see reference to function template instantiation 'TestScores<int>::TestScores(void)' being compiled
+  c:\users\xcao0\onedrive\fall 2016\csc263\assignment\assignment10\assignment10\source.cpp(49): note: see reference to class template instantiation 'TestScores<int>' being compiled
+  Assignment10.vcxproj -> C:\Users\xcao0\OneDrive\Fall 2016\CSC263\Assignment\Assignment10\Debug\Assignment10.exe
+  Assignment10.vcxproj -> C:\Users\xcao0\OneDrive\Fall 2016\CSC263\Assignment\Assignment10\Debug\Assignment10.pdb (Full PDB)

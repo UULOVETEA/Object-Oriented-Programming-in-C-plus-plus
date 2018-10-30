@@ -1,0 +1,17 @@
+﻿  Source.cpp
+c:\users\xcao0\onedrive\fall 2016\csc263\assignment\assignment08\assignment08\source.cpp(70): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\xcao0\onedrive\fall 2016\csc263\assignment\assignment08\assignment08\source.cpp(71): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\xcao0\onedrive\fall 2016\csc263\assignment\assignment08\assignment08\source.cpp(76): error C2065: 'width': undeclared identifier
+c:\users\xcao0\onedrive\fall 2016\csc263\assignment\assignment08\assignment08\source.cpp(76): error C2228: left of '.setFeet' must have class/struct/union
+  c:\users\xcao0\onedrive\fall 2016\csc263\assignment\assignment08\assignment08\source.cpp(76): note: type is 'unknown-type'
+c:\users\xcao0\onedrive\fall 2016\csc263\assignment\assignment08\assignment08\source.cpp(77): error C2065: 'width': undeclared identifier
+c:\users\xcao0\onedrive\fall 2016\csc263\assignment\assignment08\assignment08\source.cpp(77): error C2228: left of '.setInches' must have class/struct/union
+  c:\users\xcao0\onedrive\fall 2016\csc263\assignment\assignment08\assignment08\source.cpp(77): note: type is 'unknown-type'
+c:\users\xcao0\onedrive\fall 2016\csc263\assignment\assignment08\assignment08\source.cpp(80): error C2228: left of '.setLength' must have class/struct/union
+c:\users\xcao0\onedrive\fall 2016\csc263\assignment\assignment08\assignment08\source.cpp(80): error C2065: 'length': undeclared identifier
+c:\users\xcao0\onedrive\fall 2016\csc263\assignment\assignment08\assignment08\source.cpp(81): error C2228: left of '.setWidth' must have class/struct/union
+c:\users\xcao0\onedrive\fall 2016\csc263\assignment\assignment08\assignment08\source.cpp(81): error C2065: 'width': undeclared identifier
+c:\users\xcao0\onedrive\fall 2016\csc263\assignment\assignment08\assignment08\source.cpp(82): error C2664: 'void RoomCarpet::setRoom(RoomDimension)': cannot convert argument 1 from 'overloaded-function' to 'RoomDimension'
+  c:\users\xcao0\onedrive\fall 2016\csc263\assignment\assignment08\assignment08\source.cpp(82): note: No constructor could take the source type, or constructor overload resolution was ambiguous
+  RoomCarpet.cpp
+  Generating Code...
